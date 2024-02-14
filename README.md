@@ -5,6 +5,15 @@
 ## Technical Skills
 Java, .NET, SQL, Tailwind CSS, AJAX Toolkit, HTML 3.0, React.js, Node.js, Traffic Server Apache, Squid, Mobaxtreme, bash
 
+
+### Education
+| Course                                                | School/University                    | Year of Passing | Score      |
+|-------------------------------------------------------|--------------------------------------|-----------------|------------|
+| Integrated MTech in Computer Science Engineering      | VIT Bhopal University                | 2025            | 8.44 CGPA  |
+| Higher Secondary Certification                        | Ryan International School, Navi Mumbai | 2020          | 95.6%      |
+| Secondary School Certification                        | Kendriya Vidyalaya Ballygunge, Kolkata | 2018          | 96.6%      |
+
+
 ## Certification
 - Blockchain Basics by Coursera (Dec, 2021)
 - Fundamentals of cybersecurity by Cisco and Future Skill
@@ -22,19 +31,6 @@ Java, .NET, SQL, Tailwind CSS, AJAX Toolkit, HTML 3.0, React.js, Node.js, Traffi
 ## Extra-Curriculars and Achievements
 - Cyvit Content Team (July 2020): Spearheaded critical contributions to the prestigious annual VIT Bhopal Cyber Magazine, Cyvit. Demonstrated unparalleled creativity and innovation in content development, setting new standards for excellence in cyber publications.
 - E Cell Coordinator (Academic year 2020-2021): Held a pivotal role as an E Cell Coordinator, tasked with capturing pivotal moments, orchestrating captivating social media content, and producing compelling videos of events. Elevated the E Cell's visibility and impact through dynamic multimedia storytelling and strategic content distribution, garnering widespread acclaim and recognition.
-
-
-
-
-
-
-
-### Education
-| Course                                                | School/University                    | Year of Passing | Score      |
-|-------------------------------------------------------|--------------------------------------|-----------------|------------|
-| Integrated MTech in Computer Science Engineering      | VIT Bhopal University                | 2025            | 8.44 CGPA  |
-| Higher Secondary Certification                        | Ryan International School, Navi Mumbai | 2020          | 95.6%      |
-| Secondary School Certification                        | Kendriya Vidyalaya Ballygunge, Kolkata | 2018          | 96.6%      |
 
 
 ### Languages
